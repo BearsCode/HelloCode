@@ -1,0 +1,15 @@
+C:\Users\Эмиль\Examples\Example005_ConditionElse\bin\Debug\net6.0\Example005_ConditionElse.exe
+C:\Users\Эмиль\Examples\Example005_ConditionElse\bin\Debug\net6.0\Example005_ConditionElse.deps.json
+C:\Users\Эмиль\Examples\Example005_ConditionElse\bin\Debug\net6.0\Example005_ConditionElse.runtimeconfig.json
+C:\Users\Эмиль\Examples\Example005_ConditionElse\bin\Debug\net6.0\Example005_ConditionElse.dll
+C:\Users\Эмиль\Examples\Example005_ConditionElse\bin\Debug\net6.0\Example005_ConditionElse.pdb
+C:\Users\Эмиль\Examples\Example005_ConditionElse\obj\Debug\net6.0\Example005_ConditionElse.csproj.AssemblyReference.cache
+C:\Users\Эмиль\Examples\Example005_ConditionElse\obj\Debug\net6.0\Example005_ConditionElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Эмиль\Examples\Example005_ConditionElse\obj\Debug\net6.0\Example005_ConditionElse.AssemblyInfoInputs.cache
+C:\Users\Эмиль\Examples\Example005_ConditionElse\obj\Debug\net6.0\Example005_ConditionElse.AssemblyInfo.cs
+C:\Users\Эмиль\Examples\Example005_ConditionElse\obj\Debug\net6.0\Example005_ConditionElse.csproj.CoreCompileInputs.cache
+C:\Users\Эмиль\Examples\Example005_ConditionElse\obj\Debug\net6.0\Example005_ConditionElse.dll
+C:\Users\Эмиль\Examples\Example005_ConditionElse\obj\Debug\net6.0\refint\Example005_ConditionElse.dll
+C:\Users\Эмиль\Examples\Example005_ConditionElse\obj\Debug\net6.0\Example005_ConditionElse.pdb
+C:\Users\Эмиль\Examples\Example005_ConditionElse\obj\Debug\net6.0\Example005_ConditionElse.genruntimeconfig.cache
+C:\Users\Эмиль\Examples\Example005_ConditionElse\obj\Debug\net6.0\ref\Example005_ConditionElse.dll
